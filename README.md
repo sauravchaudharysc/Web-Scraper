@@ -1,7 +1,7 @@
 # Spyder Bot
 
 ### Want to learn more about web scraping ??
-#### Refer this ![WebScraping](https://sauravchaudharysc.github.io/WebScraping/)
+#### Refer this [WebScraping](https://sauravchaudharysc.github.io/WebScraping/)
 
 You see every morning as a programmer I wake up and read hacker news because it greats way to stay up to date with the industry and learn just about the programming news.
 
@@ -15,6 +15,10 @@ Now in order for me not to read useless stories. We can only ready the stories w
 - Download Requests Module
   - pip install requests
 
+### Run
+ - Download the Repository
+ - Extract the files and open up the terminal in same folder
+ - Type python scraper.py
 ### Beautiful Soup
 
 Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree. It allows us to parse. That is we can use Beautiful Soup to convert this from a string to an actual object that we can manipulate and use . Using python to modify this data to what we want.
