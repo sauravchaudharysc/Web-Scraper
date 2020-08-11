@@ -1,4 +1,4 @@
-# Hacker News
+# Spyder Bot
 
 You see every morning as a programmer I wake up and read hacker news because it greats way to stay up to date with the industry and learn just about the programming news.
 
